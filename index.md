@@ -10,9 +10,12 @@ features:
   details: "随便写写"
   link: 'https://www.yuque.com/yaoyuanyy/blog'
 - title: "软件"
-  details: "开源软件"
+  details: "我的作品"
   link: /software/
 - title: "教程"
   details: "一些教程"
   link: '/guide/'
+- title: "推荐"
+  details: '书 影音 软件'
+  link: '/awesome/'
 ---
