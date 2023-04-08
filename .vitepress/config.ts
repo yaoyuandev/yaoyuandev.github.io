@@ -3,14 +3,14 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "遥远之境",
-  titleTemplate: '探索心灵',
+  titleTemplate: ' 遥远之境',
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       {text: '文集', link: 'https://www.yuque.com/yaoyuanyy/blog'},
       {text: '软件', link: 'software/'},
-      {text: '教程', link: 'guide/'},
+      {text: '笔记', link: 'guide/'},
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/yaoyuandev' },
