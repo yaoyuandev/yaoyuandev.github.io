@@ -6,8 +6,10 @@ layout: doc
 ## 软件
 - [C语言](https://www.yuque.com/yaoyuanyy/guide-c-lang)
 - [Java](https://www.yuque.com/yaoyuanyy/guide-java)
-- [Spring Boot](https://www.yuque.com/yaoyuanyy/guide-springboot)
+- [Spring Boot](https://www.yuque.com/yaoyuanyy/springboot)
 - [Spring Cloud](https://www.yuque.com/yaoyuanyy/spring-cloud)
+- [Docker](https://www.yuque.com/yaoyuanyy/docker)
+- [Kubernetes](https://www.yuque.com/yaoyuanyy/kubernetes)
 
 ### 软考
 - [软件设计师]
